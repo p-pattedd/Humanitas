@@ -15,7 +15,7 @@ Strategy Game created with Unity
 - GNU Unifont
 
 ### Changelog
-- O.0.0.0.0001			2022-09-02			p_pattedd
+- 0.0.0.0.0001			2022-09-02			p_pattedd
 	- **Humanitas** Created
 	- *Scene* **Main Menu** Created
 	- **Unity Splash** Modified
