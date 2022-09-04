@@ -28,3 +28,5 @@ CC0 1.0 Universal
 	- *Button* **Quit** Created --- ***p_pattedd***
 	- *Display* **DateTime** Created --- ***p_pattedd***
 	- *Script* **DateAndTime** Created --- ***p_pattedd***
+- 0.0.0.0.0002 2022-09-04
+	- *Script* **DateAndTime** merged with *Script* **MainMenu** --- ***p_pattedd***
